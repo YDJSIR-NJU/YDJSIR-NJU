@@ -11,7 +11,7 @@
 | Versions        | Links                      |
 | --------------- | -------------------------- |
 | English Version | https://en.ydjsir.com.cn/  |
-| 中文版          | https://www.ydjsir.com.cn/ |
+| 中文版          | https://ydjsir.com.cn/ |
 
 ## 📫 How to Reach Me on Other Platforms
 
