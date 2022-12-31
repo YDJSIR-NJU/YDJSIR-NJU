@@ -23,6 +23,8 @@
 
 ## 🌱 I’m currently working on...
 
+I am studying log related topics in software engineering currently.
+
 | Project Address                                              | Contribution                                  |
 | ------------------------------------------------------------ | --------------------------------------------- |
 | https://github.com/NJU-SE-15-share-review/professional-class | Management & Material Providing               |
