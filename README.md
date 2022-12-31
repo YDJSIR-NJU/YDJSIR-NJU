@@ -4,30 +4,29 @@
 
 ## 💬 Welcome to contact me to know more about my organizations and teams!
 
-`SWI, NJU` `NJUMSC` `IT-XIA`  `ABNormal-Team` 
+`DevOps+ Research Laboratory of Nanjing University`  `NANJING UNIVERSITY · SOFTWARE INSTITUTE`  `IT-XIA`  `ABNormal-Team`  `(Former) NJUMSC` 
 
 ## Personal Website
 
 | Versions        | Links                      |
 | --------------- | -------------------------- |
-| English Version | https://en.ydjsir.com.cn/  |
+| English Version | https://ydj.abn-team.top/ |
 | 中文版          | https://ydjsir.com.cn/ |
 
 ## 📫 How to Reach Me on Other Platforms
 
-| Platform     | Link                                   |
-| ------------ | -------------------------------------- |
-| Bilibili     | https://space.bilibili.com/16386098    |
-| ZhiHu        | https://www.zhihu.com/people/ydjsirkmp |
-| GitHub Pages | https://ydj.abn-team.top/              |
-| GitHub       | https://github.com/YDJSIR-NJU          |
+| Platform     | Link                                |
+| ------------ | ----------------------------------- |
+| Bilibili     | https://space.bilibili.com/16386098 |
+| GitHub Pages | https://ydj.abn-team.top/           |
+| GitHub       | https://github.com/YDJSIR-NJU       |
 
 ## 🌱 I’m currently working on...
 
-| Project Address                                              | Contribution                                   |
-| ------------------------------------------------------------ | ---------------------------------------------- |
-| https://github.com/NJU-SE-15-share-review/professional-class | Management & Material Providing                |
-| https://github.com/ABNAA                                     | Organization Management & Website Maintainence |
+| Project Address                                              | Contribution                                  |
+| ------------------------------------------------------------ | --------------------------------------------- |
+| https://github.com/NJU-SE-15-share-review/professional-class | Management & Material Providing               |
+| https://github.com/ABNAA                                     | Organization Management & Website Maintenance |
 
 
 
