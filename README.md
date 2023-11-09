@@ -4,7 +4,15 @@
 
 ## 💬 Welcome to contact me to know more about my organizations and teams!
 
-`DevOps+ Research Laboratory of Nanjing University`  `NANJING UNIVERSITY · SOFTWARE INSTITUTE`  `IT-XIA`  `ABNormal-Team`  `(Former) NJUMSC` 
+`DevOps+ Research Laboratory of Nanjing University` https://softeng.nju.edu.cn/
+
+`NANJING UNIVERSITY · SOFTWARE INSTITUTE` https://software.nju.edu.cn/
+
+`IT-XIA` https://itxia.club/
+
+`ABNormal-Team` https://www.abn-team.top/
+
+`(Former) NJUMSC` 
 
 ## Personal Website
 
@@ -15,20 +23,18 @@
 
 ## 📫 How to Reach Me on Other Platforms
 
-| Platform     | Link                                |
-| ------------ | ----------------------------------- |
-| Bilibili     | https://space.bilibili.com/16386098 |
-| GitHub Pages | https://ydj.abn-team.top/           |
-| GitHub       | https://github.com/YDJSIR-NJU       |
+| Platform | Link                                  |
+| -------- | ------------------------------------- |
+| Bilibili | https://space.bilibili.com/16386098   |
+| ORCID    | https://orcid.org/0009-0009-3088-6213 |
 
 ## 🌱 I’m currently working on...
 
 I am studying log related topics in software engineering currently.
 
-| Project Address                                              | Contribution                                  |
-| ------------------------------------------------------------ | --------------------------------------------- |
-| https://github.com/NJU-SE-15-share-review/professional-class | Management & Material Providing               |
-| https://github.com/ABNAA                                     | Organization Management & Website Maintenance |
+| Project Address          | Contribution                                  |
+| ------------------------ | --------------------------------------------- |
+| https://github.com/ABNAA | Organization Management & Website Maintenance |
 
 
 
